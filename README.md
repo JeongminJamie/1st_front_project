@@ -1,7 +1,18 @@
-LinkedIn 클론 코딩입니다!
+개발 기간: 2024. 6. 10 ~ 21
+(3인 프로젝트)
 
-React를 사용하며, Redux-toolkit으로 전역 상태 관리 합니다
-각각 추가, 조회, 수정, 삭제 HTTP 요청을 서버로 axios 또는 fetch로 보냅니다 
+풀스택 LinkedIn 클론 코딩입니다!
+직접 CRUD 기능을 구현하며 서버와 클라이언트의 동작 과정을 좀 더 이해하며 경험하기 위해 만든 프로젝트입니다.
+웹 표준을 준수하며 CSS 사용에 익숙해지고, 컴포넌트를 효율적으로 나눔으로써 클린 코드 작성을 목표로 삼았습니다. 
+
+사용한 기술 스택:
+프론트엔드 - React.js, Redux Toolkit, CSS
+백엔드 - Java, Spring Boot, MySQL 
+
+주요 구현 기능:
+- 일반 회원가입, 로그인/구글 로그인
+- 게시글/댓글 조회, 생성, 수정, 삭제
+- 일반/구글 사용자 프로필 조회 및 수정 
 
 첫번째 화면
 ![firstpage](https://github.com/fs-1st-project/frontend/assets/103073389/0baa2d4c-c6eb-49a1-8810-ac139f396ce8)
