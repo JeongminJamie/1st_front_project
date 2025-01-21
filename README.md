@@ -9,10 +9,12 @@
 프론트엔드 - React.js, Redux Toolkit, CSS
 백엔드 - Java, Spring Boot, MySQL 
 
+
 ## 주요 구현 기능:
 - 일반 회원가입, 로그인/구글 로그인
 - 게시글/댓글 조회, 생성, 수정, 삭제
 - 일반/구글 사용자 프로필 조회 및 수정
+
 
 ## 기여 - 최정민
 - **CTO 역할**을 맡아 팀 프로젝트의 방향 설정 및 역할 분배 주도
@@ -24,11 +26,13 @@
     - **일반 유저 로그인** 기능 구현 (토큰 생성 및 클라이언트 전달)
     - **게시글과 댓글 API** 구현
 
+
 ## 회고 - 최정민 
 - 처음 자바를 사용하게 된 프로젝트로, Web, Service, Repository, DTO, Model 등을 관리하는 것이 쉽지 않음을 느꼈지만, RESTful API 구현으로 서버의 코드를 이해할 수 있는 경험이 되었습니다. 
 - 전역 상태 관리를 위한 Redux Toolkit를 처음 사용하여, dispatch나 useSelector 사용법에 한층 가까워질 수 있었습니다.
 - 새로 고침 후 상태 유지를 위해 Redux-Persist를 알게 되고 사용하는 경험이 되었습니다(하지만 localStorage의 데이터 저장은 정말 필요할 때만 사용해야 함을 인지하고 있습니다).
 - 데이터를 서버로부터 받아 상태로 저장하고 컴포넌트로 코드를 짜는데 조금 더 능숙해졌습니다.
+
 
 첫번째 화면
 ![firstpage](https://github.com/fs-1st-project/frontend/assets/103073389/0baa2d4c-c6eb-49a1-8810-ac139f396ce8)
