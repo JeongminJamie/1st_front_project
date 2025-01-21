@@ -7,6 +7,7 @@
 
 ## 사용한 기술 스택:
 프론트엔드 - React.js, Redux Toolkit, CSS
+
 백엔드 - Java, Spring Boot, MySQL 
 
 
